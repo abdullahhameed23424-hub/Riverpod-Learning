@@ -77,10 +77,22 @@ Project structure (high level)
 - `lib/screens/` — UI screens (home, product, cart)
 - `lib/shared/` — shared widgets (e.g. cart icon)
 
-Support & contact
------------------
-For collaboration or support, open an issue or add your contact email here.
+## Support & Contact
 
-License
--------
-Add an appropriate license (for example, MIT) to clarify reuse rights.
+For questions, suggestions, bug reports, or collaboration opportunities, please open an issue in this repository.
+
+If you would like to use this project as a learning resource, starter template, or reference implementation, feel free to do so according to the license terms below.
+
+## License
+
+MIT License
+
+Copyright (c) 2026
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
+
+* The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+* The Software is provided "as is", without warranty of any kind, express or implied.
+* The authors or copyright holders shall not be liable for any claim, damages, or other liability arising from the use of the Software.
+
+This project is open-source and may be reused, modified, and distributed for personal, educational, and commercial purposes.
