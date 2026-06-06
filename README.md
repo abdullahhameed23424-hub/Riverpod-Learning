@@ -84,9 +84,3 @@ For collaboration or support, open an issue or add your contact email here.
 License
 -------
 Add an appropriate license (for example, MIT) to clarify reuse rights.
-
-Next steps
-----------
-- Want me to generate polished screenshot captions and a feature graphic-ready blurbs?
-
-Updated file: [README.md](README.md)
